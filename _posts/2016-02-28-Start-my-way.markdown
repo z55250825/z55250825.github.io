@@ -2,7 +2,7 @@
 layout: post
 title:  "第一篇博客"
 date:   2016-03-06 02:44:00
-categories: 第一篇博客
+categories: the first
 ---
 #第一篇博客
 实验一下而已~~~

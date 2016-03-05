@@ -9,13 +9,14 @@ categories: jekyll update
 想找个没人的地方发布自己的代码和心情罢了，如果乃是偶然发现的，请把咱当一个蒟蒻看待即可...非常感谢~
 
 	
+{% highlight c++ %}	
+#include<cstdio>
+using namespace std;
 	
-    #include<cstdio>
-	
-	using namespace std;
-	
-	int main()
-	{
-	printf("Hello World!");
-	return 0;
-	}
+int main()
+{
+printf("Hello World!");
+return 0;
+}
+
+{% endhighlight %}

@@ -1,9 +1,19 @@
 ---
-layout:post
-title:"Markdown测试"
+layout: post
+title:  "Markdown测试"
 date: 2016-03-06 3:10:00
+categories: jekyll update
 ---
 Markdown语法测试...目前是刚学一些基本东西，此处留作测试用:
+
+标题测试:
+
+#标题1
+##标题2
+
+###标题3
+
+####标题4
 
 列表:
 
@@ -35,23 +45,18 @@ Markdown语法测试...目前是刚学一些基本东西，此处留作测试用
 
 
 
+代码测试:
 
-
-
-
-
-` 
-#include <cstdio>
+{% highlight c++ %}
+include<cstdio>
 using namespace std;
 
 int main()
 {
-	printf("Ha");
 	return 0;
 }
-`
 
-
+{% endhighlight %}
 
 
 

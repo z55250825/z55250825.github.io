@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2013-06-05 17:06:25
+categories: jekyll update
+---
 #第一篇博客
 实验一下而已~~~
 
@@ -5,8 +11,6 @@
 
 	
 	
-`
-
     #include<cstdio>
 	
 	using namespace std;
@@ -16,4 +20,3 @@
 	printf("Hello World!");
 	return 0;
 	}
-`

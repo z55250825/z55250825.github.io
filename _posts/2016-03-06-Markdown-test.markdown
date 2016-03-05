@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Markdown测试"
-date: 2016-03-06 3:10:00
+date:   2016-03-06 03:37:25
 categories: jekyll update
 ---
+
 Markdown语法测试...目前是刚学一些基本东西，此处留作测试用:
 
 标题测试:

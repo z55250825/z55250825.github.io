@@ -1,6 +1,6 @@
 name: z55250825
 url: http://example.org
-description: A stylish blog using the Solarized color palette
+description: 一只蒟蒻
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
